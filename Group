@@ -18,6 +18,10 @@ Abelian group example: The set Z_n * with multipication operatto (Z_n^{*} , .)
 
 Group properties:
 - order of group: the smallest positive integer n such that aoa...oa=a^{n}=e. usaully we say the order ..
-Cyclic group: it is said that G is a cyclic group if the order()= |G| where |G|is the number of groups's elements
+Cyclic group: it is said that G is a cyclic group if for an element a \in G with order(a)= |G| where |G|is the number of groups's elements
 
+Note: it's clear that we could define |G| can be either finiti or infinite.
+Finite group: the group G is called finite if it has finitie  number of elements. 
+
+Generator or primitive element: an element in G with maximum order is called a generator.
 
