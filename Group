@@ -23,16 +23,34 @@ we could define cycling group in other word: if there exits an elemrnt g such th
 Group elemnts: {g^0,g^1,...,g^m} for finite group and  {g^0,g^1,...,g^r,...} for infinite group.
  Note: from finite group point of view, these two definition are equal 
 Note: it's clear that |G| can be either finiti or infinite.
-Finite group: the group G is called finite if it has finitie  number of elements. 
+Finite group: the group G is called finite if it has finitie number of elements. 
 
 
 Example of cyclic group: <Z*, \times_11> : {1,2,3,...,10}
  - |G|=10 
  - identity elemnt: e=1
- - order(2): 2.2.2.2.2=2^{5}=32 mode 11 = -1 , 2^6=64
- -genertor =2
+ - order(2): 2.2.2.2.2=2^{5}.2^{5}=32.32 mode 11 = -1.-1=1 -> order(2)=10 
+ - genertor =2
 
 Generator or primitive element: an element in G with maximum order is called a generator.
+
+Lagrange theorm: if G is a multiplicative group with order n ; |G|=n, then for each elemnt k in G,
+we have order(k) | n.
+Lagrange theorem: If G is a mulitiplactive group with order n, and H is a subgroup of G, then |H| | |G|
+
+Imediately, it is implied that every group G with order n where n is prime is a cyclic group. Therefor, if
+if p is prime, Z_p is cyclic. 
+
+Question: for all a \in Z*_n then a^\ph(n)=1 
+ proof: \ph(n)= |z*_n|=n-1 -> a^n-1=a.a.a...a=?
+ 
+ 
+Fermat theorem: if p is prime and a is an integer not divisable by p, then a^{p-1} (mode p)=1,  in other word, it means that
+a^{p-2}.a (mode p)=1 --> a^{p-2} is the iverse of a. 
+proof: a.a....a (mode p)=(a-p)(a-p)...(a-p)
+example: p=5, a=6 ,then 6^4 (mode 5)=36.36 (mode 5)=1.1=1
+
+Furthermore, it's obvios that we can deduce that for every a ,  a^p (mode p)=a
 
 
 
