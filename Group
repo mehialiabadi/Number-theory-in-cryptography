@@ -52,5 +52,7 @@ example: p=5, a=6 ,then 6^4 (mode 5)=36.36 (mode 5)=1.1=1
 
 Furthermore, it's obvios that we can deduce that for every a ,  a^p (mode p)=a
 
+Note: Algmal crypto system is based on Z*_n, as far as I know. 
+
 
 
