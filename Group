@@ -26,7 +26,11 @@ Note: it's clear that |G| can be either finiti or infinite.
 Finite group: the group G is called finite if it has finitie  number of elements. 
 
 
-Example of cyclic group: 
+Example of cyclic group: <Z*, \times_11> : {1,2,3,...,10}
+ - |G|=10 
+ - identity elemnt: e=1
+ - order(2): 2.2.2.2.2=2^{5}=32 mode 11 = -1 , 2^6=64
+ -genertor =2
 
 Generator or primitive element: an element in G with maximum order is called a generator.
 
