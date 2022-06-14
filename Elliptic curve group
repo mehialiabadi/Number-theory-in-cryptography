@@ -3,3 +3,14 @@ In this part, we would like to have a breif introduction on Eleptic curve includ
 its main properties in cryptography as well. 
 
 Definition: as the name implies, eleptic curve is a curve given with an  specific equation:
+y^2=x^3+ax+b
+Consider the set E of solotion to the equetion: E={(x,y): y^2=x^3+ax+b}
+
+In order to define a group over eleptic curve, it's required to have a non-singular curve;
+
+To define the group we need and operation o on Esuch that satifty group requirtemnets: 
+Suppose define operation o: addition on ec. 
+
+- if P and Q are two points on EC, then P+Q should be on EC.
+- There exists an identity element e such that P+e=e+P=P 
+- for P,Q and R , then, P+(Q+R)=(P+Q)+R
