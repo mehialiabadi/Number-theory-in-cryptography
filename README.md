@@ -9,4 +9,9 @@ Lets start with  definition of Galois field:
 
 Field with finite number of elements is called Galios or finitie feild  and abbreviated as (GF).  Z*_p,  the class of all residue where p i s prime is a galios field denoted by GF(p).
  For p=2, it's called binary field 
- Fo p>2, $$ y^2=x^3$$
+ Fo p>2, 
+ 
+ 
+ Introduction into Polynomial
+ It's possible to generate all finitie field or GF by having an irreducible polynomial. 
+ 
