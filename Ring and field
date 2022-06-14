@@ -1,1 +1,6 @@
 
+A ring R is a set of elements with two operation (R,+,\times) with the following properteis:
+- R is an abelian group under addition
+- Under multiplication we have a\time b \in R
+- associativity properties of R is satisfied under multiplication
+there exists a muliplicative identity elemnt such that for every a \iin R a \time e=e\time a=a
