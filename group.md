@@ -2,7 +2,7 @@
 ## Group definition
 
 The set H with operation o called a group if satisfies the following properties (in other words there is  a function f which takes some inputs $a_1,a_2,... a_n \in H$, returning $f(a_1,a_2,...) = a_1oa_2,...  )$:
-```
+``` math
 1- Closure: If a and b $\in$ H, then aob $\in$ H.
 
 2- Associativity: For all a , b and c in H, then we have ao(boc)=(aob)oc
