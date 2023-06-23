@@ -13,6 +13,6 @@ $Z^*_p$,  the class of all residue where p is a prime number,  is a Galois field
  Fo p>2, 
  
  
- ## Introduction into Polynomial
+ ## Introduction to Polynomial
  It's possible to generate all finite fields or GF by having an irreducible polynomial. 
  
