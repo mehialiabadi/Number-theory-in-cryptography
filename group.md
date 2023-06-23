@@ -13,7 +13,7 @@ The set H with operation o called a group if satisfies the following properties 
 ```
 For example consider the set of residue integers with the addition operation $( Z_{n}, + )$, while $( Z,\times )$ and $(Z , -)$ can not be considered as a group.
 
-## Definition: Abelian group
+## Abelian group
 we say that group G is abelian if for any a and b in G with operation o, we have aob=boa. The set Z_n with multiplication operation $(Z_n^{*} , \times)$ is an abelian group.
 
 
@@ -37,7 +37,7 @@ Example of cyclic group: <$ Z^*, \times_11 $$> : {1,2,3,...,10} where
  - order(2): 2.2.2.2.2= $$ 2^{5}.2^{5}=32.32 mode 11 = -1.-1=1 -> order(2)=10 $$
  - generator =2
 
-### Some interesting Number theories"
+### Some interesting Number theories
 Lagrange theorem: if G is a multiplicative group with order n; |G|=n, then for each element k in G,
 we have order(k) | n.
 
@@ -59,7 +59,8 @@ Furthermore, it's obvious that we can deduce that for every a ,  $$ a^p (mode p)
 
 Note: Algmal cryptosystem is based on Z*_n, as far as I know. ($$ {Z^{*}}_n $$ is a cyclic group)
 
-## Subgroup: consider group (R , +) the subset S of R is called subgroup iff:
+## Subgroup
+consider group (R , +) the subset S of R is called subgroup iff:
 
 
 
