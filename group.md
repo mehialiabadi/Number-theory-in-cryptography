@@ -11,10 +11,10 @@ The set H with operation o called a group if satisfies the following properties 
 
 4- For each element a in H, there exists an element $ a^{-1} \in H $, called the inverse of a, such that $ aoa^{-1}=e$
 ```
-For example consider the set of residue integers with the addition operation($ Z_{n}, + $), it's a cumulative group while ($ Z,\times $) and (Z , -) are not groups.
+For example consider the set of residue integers with the addition operation $( Z_{n}, + )$, while $( Z,\times )$ and $(Z , -)$ can not be considered as a group.
 
 ## Definition: Abelian group
-we say that group G is abelian if for any a and b in G with operation o, we have aob=boa. The set Z_n with multiplication operation ($Z_n^{*} , .$) is an abelian group.
+we say that group G is abelian if for any a and b in G with operation o, we have aob=boa. The set Z_n with multiplication operation $(Z_n^{*} , \times)$ is an abelian group.
 
 
 
