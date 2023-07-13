@@ -1,4 +1,4 @@
-# Number-theory-for-cryptography
+# Number-theory-in-cryptography
 
 Number theory and algebra are increasingly important in computing. These concepts have been applied to fields such as cryptography and coding theory, which are impressive.
 
